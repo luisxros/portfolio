@@ -25,7 +25,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: black;
   width: 100%;
   
 }
@@ -90,8 +89,8 @@ nav > a {
   /* box-shadow: 0 0 15px 1px rgb(0, 45, 245); */
 }
 
-.bio {
-  font-size: 25px;
+.info {
+  font-size: 37px;
 }
 
 
